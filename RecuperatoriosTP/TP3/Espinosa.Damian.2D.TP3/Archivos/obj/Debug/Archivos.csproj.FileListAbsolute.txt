@@ -1,0 +1,4 @@
+C:\Users\Damian\Desktop\Prueba\RecuperatoriosTP\TP3\Espinosa.Damian.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Damian\Desktop\Prueba\RecuperatoriosTP\TP3\Espinosa.Damian.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Damian\Desktop\Prueba\RecuperatoriosTP\TP3\Espinosa.Damian.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Damian\Desktop\Prueba\RecuperatoriosTP\TP3\Espinosa.Damian.2D.TP3\Archivos\obj\Debug\Archivos.pdb
